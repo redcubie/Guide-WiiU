@@ -2,8 +2,8 @@
 
 ## Velg ett DS VC-spill
 
-The first thing to decide is what DS Virtual Console (usually abbreviated as "VC") game you will buy.  
-Please note that the game you injected Haxchi/CBHC into will not be playable anymore until you uninstall Haxchi/CBHC and reinstall the game from the eShop.
+Det første du må velge er hvilket DS Virtual Console ("VC") spill du skal kjøpe.   
+Vær oppmerksom på at spillet du installerer Haxchi/CBHC over ikke vil kunne spilles lenger før du avinstallerer Haxchi/CBHC og så installerer spillet på nytt fra eShop.
 
 ### Kompatible DS VC spill
 
@@ -25,7 +25,7 @@ Hvis du ikke eier noen av spillene i listen, anbefaler vi å kjøpe Brain Age (N
 - **Mario Kart DS** - [EUR](https://www.nintendo.eu/Games/Nintendo-DS/Mario-Kart-DS-271518.html "Buy it from the European eShop") [USA](https://www.nintendo.com/games/detail/mario-kart-ds-wii-u/ "Buy it from the American eShop") [JPN](https://www.nintendo.co.jp/titles/20010000011949 "Buy it from the Japanese eShop")
 - **New Super Mario Bros.** - [EUR](https://www.nintendo.eu/Games/Nintendo-DS/New-Super-Mario-Bros--271969.html "Buy it from the European eShop") [USA](https://www.nintendo.com/games/detail/new-super-mario-bros-wii-u/ "Buy it from the American eShop") [JPN](https://www.nintendo.co.jp/titles/20010000011947 "Buy it from the Japanese eShop")
 - **Pokemon Mystery Dungeon: Explorers of the Sky** - [EUR](https://www.nintendo.eu/Games/Nintendo-DS/Pokemon-Mystery-Dungeon-Explorers-of-Sky-272409.html "Buy it from the European eShop") [USA](https://www.nintendo.com/games/detail/pokemon-mystery-dungeon-explorers-of-sky-wii-u/ "Buy it from the American eShop") [JPN](https://www.nintendo.co.jp/titles/20010000023018 "Buy it from the Japanese eShop")
-- **Star Fox Command** - [EUR](https://www.nintendo.eu/Games/Nintendo-DS/Star-Fox-Command-273113.html "Buy it from the European eShop") [USA](https://www.nintendo.com/games/detail/star-fox-command-wii-u/ "Buy it from the American eShop") *~~JPN~~*
+- **Star Fox Command** - [EUR](https://www.nintendo.eu/Games/Nintendo-DS/Star-Fox-Command-273113.html "Buy it from the European eShop") [USA](https://www.nintendo.com/games/detail/star-fox-command-wii-u/ "Buy it from the American eShop") [JPN](https://www.nintendo.co.jp/titles/20010000014227 "Buy it from the Japanese eShop")
 - **Super Mario 64 DS** - [EUR](https://www.nintendo.eu/Games/Nintendo-DS/Super-Mario-64-DS-273179.html "Buy it from the European eShop") [USA](https://www.nintendo.com/games/detail/super-mario-64-ds-wii-u/ "Buy it from the American eShop") [JPN](https://www.nintendo.co.jp/titles/20010000015449 "Buy it from the Japanese eShop")
 - **Wario: Master of Disguise** - [EUR](https://www.nintendo.eu/Games/Nintendo-DS/Wario-Master-of-Disguise-273553.html "Buy it from the European eShop") [USA](https://www.nintendo.com/games/detail/wario-master-of-disguise-wii-u/ "Buy it from the American eShop") [JPN](https://www.nintendo.co.jp/titles/20010000014228 "Buy it from the Japanese eShop")
 - **WarioWare: Touched!** - [EUR](https://www.nintendo.eu/Games/Nintendo-DS/WarioWare-Touched--273564.html "Buy it from the European eShop") [USA](https://www.nintendo.com/games/detail/warioware-touched-wii-u/ "Buy it from the American eShop") [JPN](https://www.nintendo.co.jp/titles/20010000013308 "Buy it from the Japanese eShop")
